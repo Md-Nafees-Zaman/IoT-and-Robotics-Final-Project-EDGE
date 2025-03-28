@@ -6,7 +6,7 @@ This repository contains the source code and documentation for the **GSM-Based S
 
 ### 🎥 Short Demo:  
 
-[![Watch the Full Video]](https://youtu.be/NfkxRGqHUy0)
+[[Watch the Full Video]](https://youtu.be/NfkxRGqHUy0)
 
 ### 📺 Presentation:  
 [![Watch the Full Video](https://img.youtube.com/vi/SC1n-AXb2TM/0.jpg)](https://youtu.be/SC1n-AXb2TM)  
