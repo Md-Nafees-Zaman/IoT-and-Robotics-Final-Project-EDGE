@@ -3,11 +3,10 @@
 This repository contains the source code and documentation for the **GSM-Based Smart Door Lock** project, developed as part of the **EDGE Skill-IIT Program**. The project demonstrates **IoT-based security automation**, allowing users to remotely unlock doors via **GSM calls.**  
 
 ## 📽️ **Video Demonstration**  
-Check out the project presentation:  
 
 ### 🎥 Short Demo:  
 
-Check in the repository.  
+[![Watch the Full Video]](https://youtu.be/NfkxRGqHUy0)
 
 ### 📺 Presentation:  
 [![Watch the Full Video](https://img.youtube.com/vi/SC1n-AXb2TM/0.jpg)](https://youtu.be/SC1n-AXb2TM)  
